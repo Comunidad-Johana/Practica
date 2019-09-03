@@ -10,7 +10,7 @@ p{
     font-style: normal;
 }
 body{
-  background-color:blue;
+  background-color:white;
   margin: 0px;
 }
 .boton
@@ -123,4 +123,5 @@ input{
   color:black;
 }
 .c{
-  font-size: 14px;}
+  font-size: 14px;
+color: blue;}
